@@ -1,0 +1,5 @@
+- A class is a blue print for how things should be defined.
+    - A constructor is a method that is automatically called (by default) when a class is called.
+    - Object declarations are seperate from each other in memory to help manage state.
+- An object is an instance of that class.
+- OOP supports things like inheritance (child inherit from parent), polymorphism (different methods do different things for different objects), and encapsulation (access modifiers).
