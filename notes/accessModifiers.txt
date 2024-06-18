@@ -1,0 +1,23 @@
+- In C#, there are 5 access modifiers.
+    - Examples are public, private, protected, etc.
+    - They are ways to "control" access to classes, and the members of the classes.
+    - It creates safety to our programs and applications
+    - lets take a look:
+        class Person{
+            private string Name;
+        }
+        ...
+        var john = new Person();
+        john.Name = "Johnny boy"; // this wont compile!!
+
+- An app should be designed like a black box, this is -> the class should be easily accessible to the outside world (via an interface), and should hide what it does behind the scenes
+
+- Public: accessible to everyone.
+- Private: only accessible inside of the class, and not to the outside world.
+- Protected: only accessible insdie of class, AND its derived classes.
+
+
+- Encapsulation:
+    - Encapsulation is about "hiding" details about a class that you dont want accessible to the public.
+    - for example, imagine we had a private field in a class, and a public getter and setter method.
+

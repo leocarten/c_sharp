@@ -1,0 +1,8 @@
+- A constructor is a method called by default when an object is created.
+    - A constructor is used to set up an object in the early stages (when it first gets created).
+- It's like a method that takes arguments for a class when the object is first created.
+- By default, C# will create an empty constructor for you if you don't declare one.
+- An empty constructor has no effect on the program.
+- 'ctor' to create quickly.
+- constructor overloading is when you create multiple constructors for 1 class, because you may not know everything about that object when you initialize it...
+    - for example, when you create a Customer(), you may only know their ID, or name. Or, neither!

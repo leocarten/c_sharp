@@ -1,0 +1,7 @@
+- A class is used to describe something. The behaviors of the class are determined by the methods inside of it.
+- An object is an instance of a class!
+    - For example, if we had a Person() class, then John would be an object of the Person() class.
+- Each class SHOULD be responsible for its own unique tasks, and should NOT interfere with other classes.
+    - loosely coupled classes in application design is better than tightly coupled (incase things change, app wont break)
+        - waitress doens't tell chef how to cook, chef recieves order and cooks it himself
+    

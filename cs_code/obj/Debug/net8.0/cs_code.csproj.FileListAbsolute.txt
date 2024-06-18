@@ -12,3 +12,4 @@
 /Users/leocarten/c_sharp/cs_code/obj/Debug/net8.0/cs_code.pdb
 /Users/leocarten/c_sharp/cs_code/obj/Debug/net8.0/cs_code.genruntimeconfig.cache
 /Users/leocarten/c_sharp/cs_code/obj/Debug/net8.0/ref/cs_code.dll
+/Users/leocarten/c_sharp/cs_code/obj/Debug/net8.0/cs_code.sourcelink.json

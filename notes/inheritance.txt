@@ -1,0 +1,7 @@
+- Inheritance is when a sub class inherits methods from a super class. 
+    - As an example, you can look at PresentationObject.cs where Text() class inherits Copy() method from the PresentationObject!
+- there are a few issues with Inheritance though. Imagine you had a parent class Animal, and then subclasses Dog(), Person(), and Fish(). What happened if you wanted to implement a Walk() method in the Animal class? Well, you'd need to make a subClass Mammal and fish, and THEN Person() and Dog() would be a subclass of Mammal(). Fish() would need a new parent as well. This requires effort, maintence, and tightly coupled classes (which means a higher chances of the app getting broken).
+    - a simple change really change the application
+- There are 2 main relationships between classes:
+    - Inheritance (is-a)
+    - Composition (has-a)

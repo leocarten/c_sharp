@@ -1,0 +1,2 @@
+- What happens if you don't want a class to have multiple constructors?
+    - You use object initializer syntax to reduce the amount of constructors a class needs!

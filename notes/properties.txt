@@ -1,0 +1,5 @@
+- Properties are a quicker way to access private fields in a class, they provide encapsulation to our fields.
+    - They allow for quick coding.
+- a get() methods is used to retrieve information about an object.
+    - usually the field in that class is private, and the get() method is public.
+    - set() functions are usually void (return nothing), and modify / update fields in a class.
