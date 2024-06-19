@@ -1,3 +1,9 @@
 - interfaces are used to build loosely coupled applications.
 - an interface is like a 'contract', and class that implements an interface must adhere to what the interface (contract) says.
 - an interface in this case is like a loosely coupled together parent class to child class relationship for any class that implements that interface.
+
+- INTERFACES AND INHERITANCE:
+    - classes IMPLEMENT an interface, not inherit ...
+        - this is important, because an interface is a contract
+
+- putting an interface between 2 classes can help reduce the dependibility, which is good when we make changes to our application

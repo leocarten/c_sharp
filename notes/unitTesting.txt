@@ -1,1 +1,3 @@
 - unit testing is a part of automated testing done to make sure that software executes as expected.
+    - writing code to test code
+- to test a class, you need to isolate it, and make sure that the value we recieve is the value we expect to recieve.

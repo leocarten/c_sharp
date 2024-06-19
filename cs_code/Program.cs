@@ -48,13 +48,17 @@ namespace cs_code{
             // oracleDB.Close();
 
             // Unit testing with interface
-            var test = new CalculatorTests();
-            System.Console.WriteLine($"Addition test: {test.testAdd()}");
-            System.Console.WriteLine($"Division test: {test.testDiv()}");
-            System.Console.WriteLine($"Multiplication test: {test.testMult()}");
-            System.Console.WriteLine($"Subtraction test: {test.testSub()}");
+            // var test = new CalculatorTests();
+            // System.Console.WriteLine($"Addition test: {test.testAdd()}");
+            // System.Console.WriteLine($"Division test: {test.testDiv()}");
+            // System.Console.WriteLine($"Multiplication test: {test.testMult()}");
+            // System.Console.WriteLine($"Subtraction test: {test.testSub()}");
 
-            
+            // Interface exercise
+            // var getReadyForWork = new ExecutionStages("Get ready for work.");
+            // var workout = new ExecutionStages("Workout.");
+            // getReadyForWork.Execute(["Wake up", "Eat", "Shower", "Comb hair", "Get in car", "Drive to work"]);
+            // workout.Execute(["Curls", "Triceps", "Cardio"]);
         }
     }
 }
