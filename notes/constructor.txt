@@ -6,3 +6,8 @@
 - 'ctor' to create quickly.
 - constructor overloading is when you create multiple constructors for 1 class, because you may not know everything about that object when you initialize it...
     - for example, when you create a Customer(), you may only know their ID, or name. Or, neither!
+
+- constructors and inheritance:
+    - by default, sub-classes not inherit the super class constructor, but cannot access private fields. to do this, you can use the :base() syntax.
+    - If you make an object of a sub-class, the parent class constructor is called first by default.
+    

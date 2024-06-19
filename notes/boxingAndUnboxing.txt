@@ -1,0 +1,12 @@
+- VALUE TYPES: Primitive types are stored on the stack, like bytes, floats, ints, etc.
+    - after use, or when out of scope, are kicked off stack
+
+- REFERENCE TYPES: Stored on the heap, like classes (Array, String, Car, etc.)
+- BOXING is the process of converting a value type instance to an object
+    - creates an object in the heap, and then a reference from the stack that points to the heap
+- UNBOXING is the reverse of boxing 
+
+- boxing and unboxing have a performance issue because of the object creation
+
+- when you are working with a class, like ArrayList, you should include type safety to avoid boxing
+    - do this by using a Generic data type, like <int>, which just tells the compiler that the ArrayList should only contain elements of that data type

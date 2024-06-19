@@ -1,0 +1,9 @@
+- the abstract modifier means that a class is missing the implementation of something because way to define something (in a super class) is too abstract
+    - for example:
+        - Let's say that we had a Shape() parent class, with a Draw() method. Let's then say that we had 2 sub-classes, Circle() and Square() which each have their own Draw() methods. In each subclass, we know how to draw that shape, but in the parent class, we don't. This is an example of when we would use the 'abstract' keyword, and we wouldn't implement anything in the parent class Draw() method.
+        - When you see the abstract declaration of something, you right away know that the derived classes (sub classes) need to define that method using the 'override' keyword.
+- an abstract class is a class that has behavior that is not defined in it, rather defined in its derived classes (subclasses)
+- ANOTHER EXAMPLE: imagine you had a flower class to define the structure of a flower, and then sub-classes that derive each type of flow (sunflower, rose, etc.) ... however, what if we wanted each derived class to inherit a "growthRate()" method? Well, we wouldn't know the growthRate of each flower in that class, so we would make it abstract, and then define the growthRate() method in each derived class, like sunFlower() and rose().
+
+- VIRTUAL keyword means that we have a generic definition in the parent class, but the ability to override it in the derived classes. abstract literally means we cannot define it in the parent class.
+

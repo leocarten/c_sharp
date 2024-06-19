@@ -7,9 +7,9 @@
 /Users/leocarten/c_sharp/cs_code/obj/Debug/net8.0/cs_code.AssemblyInfoInputs.cache
 /Users/leocarten/c_sharp/cs_code/obj/Debug/net8.0/cs_code.AssemblyInfo.cs
 /Users/leocarten/c_sharp/cs_code/obj/Debug/net8.0/cs_code.csproj.CoreCompileInputs.cache
+/Users/leocarten/c_sharp/cs_code/obj/Debug/net8.0/cs_code.sourcelink.json
 /Users/leocarten/c_sharp/cs_code/obj/Debug/net8.0/cs_code.dll
 /Users/leocarten/c_sharp/cs_code/obj/Debug/net8.0/refint/cs_code.dll
 /Users/leocarten/c_sharp/cs_code/obj/Debug/net8.0/cs_code.pdb
 /Users/leocarten/c_sharp/cs_code/obj/Debug/net8.0/cs_code.genruntimeconfig.cache
 /Users/leocarten/c_sharp/cs_code/obj/Debug/net8.0/ref/cs_code.dll
-/Users/leocarten/c_sharp/cs_code/obj/Debug/net8.0/cs_code.sourcelink.json

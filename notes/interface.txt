@@ -1,0 +1,3 @@
+- interfaces are used to build loosely coupled applications.
+- an interface is like a 'contract', and class that implements an interface must adhere to what the interface (contract) says.
+- an interface in this case is like a loosely coupled together parent class to child class relationship for any class that implements that interface.

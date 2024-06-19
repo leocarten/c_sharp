@@ -1,0 +1,4 @@
+- sealed classes are the oppisite of abstract classes. it doesnt allow for overriding.
+- sealed classes are slightly faster because of run-time optimizations...
+
+- if sealed is applied to a method, it means that method CANNOT be overwritten in derived subclasses

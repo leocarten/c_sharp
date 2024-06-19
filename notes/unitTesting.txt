@@ -1,0 +1,1 @@
+- unit testing is a part of automated testing done to make sure that software executes as expected.

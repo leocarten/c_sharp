@@ -8,9 +8,9 @@ namespace cs_code{
         }
     }
 
-    class Text : PresentationObject{
+    class Text : PresentationObject{ // this text class (and objects from text class) will inherit the Copy() method from the super class, PresentationObject
         public int FontSize {get; set;}
-        public string FontType {get; set;}
+        // public string FontType {get; set;}
         public static void AddHyper(string url){
             System.Console.WriteLine("Added URL.");
         }
