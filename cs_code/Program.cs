@@ -59,6 +59,10 @@ namespace cs_code{
             // var workout = new ExecutionStages("Workout.");
             // getReadyForWork.Execute(["Wake up", "Eat", "Shower", "Comb hair", "Get in car", "Drive to work"]);
             // workout.Execute(["Curls", "Triceps", "Cardio"]);
+
+            // FILE STUFF
+            var file = new FileWriter("/Users/leocarten/c_sharp/cs_code/FileToWriteTo.txt");
+            file.Write();
         }
     }
 }
